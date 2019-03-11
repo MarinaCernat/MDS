@@ -23,9 +23,9 @@ Aplicația MVC trebuie modificată pentru a consuma aceste servicii realizate.
 
 <br>
 <h2>Deadlines</h2>
-<p>Săptămâna 5 - idei + specificații.</p>
-<p>Săptămâna 9 - MVC + prezentare.</p>
-<p>Săptămâna 11 - 1 serviciu funcțional - deploy Cloud.</p>
+<p>Săptămâna 5-6 - idei + specificații.</p>
+<p>Săptămâna 9-10 - MVC + prezentare.</p>
+<p>Săptămâna 11-12 - 1 serviciu funcțional - deploy Cloud.</p>
 <p>Săptămâna 13/14 - prezentare finală.</p>
 
 <br>
