@@ -1,9 +1,8 @@
-<h1> Metode de dezvoltare software </h1>
 <h3 style="color:red">Grupele 351 & 352</h3>
 <p>Laborant: Cernat Marina</p>
 <p>Email: marina.cernat@my.fmi.unibuc.ro</p>
 
-</br>
+<br>
 <h2>Sistemul de notare</h2>
 <p>Curs – 60 % (60 puncte) – prezenta si examen scris</p>
 <p>Laborator – 40% (40 puncte) dintre care:</p>
@@ -12,7 +11,7 @@
 <p>Documentatie – 1p</p>
 
 
-</br>
+<br>
 <h2>Cerinte proiect </h2>
 <p>(1p) Aplicație MVC - folosind Entity Framework (C#) / Hibernate (Java). 
 Trebuie să prezentați tema proiectului, specificațiile acestuia și detaliile de implementare.
@@ -22,14 +21,14 @@ Aplicația MVC trebuie modificată pentru a consuma aceste servicii realizate.
 </p>
 <p>(0.5p) Dificultatea proiectului. Se acordă cele 0.5p în funcție de dificultatea proiectului realizat.</p>
 
-</br>
+<br>
 <h2>Deadlines</h2>
 <p>Săptămâna 5 - idei + specificații.</p>
 <p>Săptămâna 9 - MVC + prezentare.</p>
 <p>Săptămâna 11 - 1 serviciu funcțional - deploy Cloud.</p>
 <p>Săptămâna 13/14 - prezentare finală.</p>
 
-</br>
+<br>
 <h2>Alte detalii despre proiect</h2>
 <p>Echipa de 5 persoane </p>
 <p>Deployment din VS in cloud </p>
@@ -38,10 +37,10 @@ Aplicația MVC trebuie modificată pentru a consuma aceste servicii realizate.
 <p>Tool-uri de versionare a codului </p>
 <p>La final documentatie </p>
 
-</br>
+<br>
 <p>Link inscriere echipe pentru proiect</p>
 <a href="https://docs.google.com/spreadsheets/d/1bdjM7agH89pbQ2fQrM8uGnIXSv_mgoG5OhRntwJ3iqs/edit?usp=sharing"></a>
-</br>
+<br>
 
 <h2>Laborator</h2>
 <a href="https://drive.google.com/file/d/1rNdDbqfToKVifmCQ0zmIstF5WbkBAhf9/view">Tutorial MVC 5 si Entity Framework 6</a>
