@@ -38,8 +38,8 @@ Aplicația MVC trebuie modificată pentru a consuma aceste servicii realizate.
 <p>La final documentatie </p>
 
 <br>
-<p>Link inscriere echipe pentru proiect</p>
-<a href="https://docs.google.com/spreadsheets/d/1bdjM7agH89pbQ2fQrM8uGnIXSv_mgoG5OhRntwJ3iqs/edit?usp=sharing"></a>
+<p>Echipele pentru proiect</p>
+<a href="https://docs.google.com/spreadsheets/d/1bdjM7agH89pbQ2fQrM8uGnIXSv_mgoG5OhRntwJ3iqs/edit?usp=sharing">Link inscriere echipe</a>
 <br>
 
 <h2>Laborator</h2>
