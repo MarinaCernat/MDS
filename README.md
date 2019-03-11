@@ -31,8 +31,8 @@ Aplicația MVC trebuie modificată pentru a consuma aceste servicii realizate.
 <br>
 <h2>Alte detalii despre proiect</h2>
 <p>Echipa de 5 persoane </p>
-<p>Deployment din VS in cloud </p>
-<p>Nu trebuie sa fie aplicatie grea </p>
+<p>Deployment din VS in Cloud </p>
+<p>Nu trebuie sa fie aplicatie grea, important este sa se vada ca ati inteles cum sa aplicati ceea ce am discutat la laborator </p>
 <p>Tool-uri de gestionare a task-urilor </p>
 <p>Tool-uri de versionare a codului </p>
 <p>La final documentatie </p>
