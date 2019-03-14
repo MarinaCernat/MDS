@@ -15,9 +15,9 @@ Trebuie să prezentați tema proiectului, specificațiile acestuia și detaliile
 <p>(1.5p) Servicii - fiecare membru al echipei trebuie să realizeze un serviciu care să funcționeze independent (folosind orice limbaj de programare). Acesta va rula local, dar și în Cloud. 
 Aplicația MVC trebuie modificată pentru a consuma aceste servicii realizate.
 </p>
+<p>(0.5p) Dificultatea proiectului. Se acordă cele 0.5p în funcție de dificultatea proiectului realizat.</p>
 <br>
 
-<p>(0.5p) Dificultatea proiectului. Se acordă cele 0.5p în funcție de dificultatea proiectului realizat.</p>
 <h2>Deadlines:</h2>
 <p>Săptămâna 5-6 - idei + specificații.</p>
 <p>Săptămâna 9-10 - MVC + prezentare.</p>
@@ -35,15 +35,13 @@ Aplicația MVC trebuie modificată pentru a consuma aceste servicii realizate.
 <br>
 			
 <h2>Echipele pentru proiect:</h2>
-<br>
 <a  href="https://docs.google.com/spreadsheets/d/1bdjM7agH89pbQ2fQrM8uGnIXSv_mgoG5OhRntwJ3iqs/edit?usp=sharing">Link inscriere echipe</a>
 <br>				
 
 <h2>Laborator:</h2>
-	
 <a href="https://drive.google.com/file/d/1rNdDbqfToKVifmCQ0zmIstF5WbkBAhf9/view">Tutorial MVC 5 si Entity Framework 6</a>
 <br>
-<br>
+
 <p>Eroare la conexiunea cu baza de date in proiectul de MVC:</p>
 <br>
 <p>In Web config, trebuie modificat String-ul de conexiune: </p> 
