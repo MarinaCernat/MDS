@@ -1,41 +1,40 @@
 <h2>Sistemul de notare:</h2>
-				<br>
-				<p>Curs – 60 % (60 puncte) – prezenta si examen scris</p>
-				<p>Laborator – 40% (40 puncte) dintre care:</p>
-				<p>Activitate + prezenta - 1p</p>
-				<p>Proiect – 3p</p>
-				<p>Documentatie – 1p</p>
+<br>
+<p>Curs – 60 % (60 puncte) – prezenta si examen scris</p>
+<p>Laborator – 40% (40 puncte) dintre care:</p>
+<p>Activitate + prezenta - 1p</p>
+<p>Proiect – 3p</p>
+<p>Documentatie – 1p</p>
 
-				<h2>Cerinte proiect: </h2>
-				<br>
-				<p>(1p) Aplicație MVC - folosind Entity Framework (C#) / Hibernate (Java). 
-				Trebuie să prezentați tema proiectului, specificațiile acestuia și detaliile de implementare.
-				</p>
-				<p>(1.5p) Servicii - fiecare membru al echipei trebuie să realizeze un serviciu care să funcționeze independent (folosind orice limbaj de programare). Acesta va rula local, dar și în Cloud. 
-				Aplicația MVC trebuie modificată pentru a consuma aceste servicii realizate.
-				</p>
-				<p>(0.5p) Dificultatea proiectului. Se acordă cele 0.5p în funcție de dificultatea proiectului realizat.</p>
+<h2>Cerinte proiect: </h2>
+<br>
+<p>(1p) Aplicație MVC - folosind Entity Framework (C#) / Hibernate (Java). 
+Trebuie să prezentați tema proiectului, specificațiile acestuia și detaliile de implementare.
+</p>
+<p>(1.5p) Servicii - fiecare membru al echipei trebuie să realizeze un serviciu care să funcționeze independent (folosind orice limbaj de programare). Acesta va rula local, dar și în Cloud. 
+Aplicația MVC trebuie modificată pentru a consuma aceste servicii realizate.
+</p>
 
-				<h2>Deadlines:</h2>
-				<br>
-				<p>Săptămâna 5-6 - idei + specificații.</p>
-				<p>Săptămâna 9-10 - MVC + prezentare.</p>
-				<p>Săptămâna 11-12 - 1 serviciu funcțional - deploy Cloud.</p>
-				<p>Săptămâna 13/14 - prezentare finală.</p>
+<p>(0.5p) Dificultatea proiectului. Se acordă cele 0.5p în funcție de dificultatea proiectului realizat.</p>
+<h2>Deadlines:</h2>
+<br>
+<p>Săptămâna 5-6 - idei + specificații.</p>
+<p>Săptămâna 9-10 - MVC + prezentare.</p>
+<p>Săptămâna 11-12 - 1 serviciu funcțional - deploy Cloud.</p>
+<p>Săptămâna 13/14 - prezentare finală.</p>
 
-				<h2>Alte detalii despre proiect:</h2>
-				<br>
-				<p>Echipa de 5 persoane </p>
-				<p>Deployment din VS in Cloud </p>
-				<p>Nu trebuie sa fie aplicatie grea, important este sa se vada ca ati inteles</p>
-				<p>Tool-uri de gestionare a task-urilor </p>
-				<p>Tool-uri de versionare a codului </p>
-				<p>La final documentatie </p>
-
+<h2>Alte detalii despre proiect:</h2>
+<br>
+<p>Echipa de 5 persoane </p>
+<p>Deployment din VS in Cloud </p>
+<p>Nu trebuie sa fie aplicatie grea, important este sa se vada ca ati inteles</p>
+<p>Tool-uri de gestionare a task-urilor </p>
+<p>Tool-uri de versionare a codului </p>
+<p>La final documentatie </p>
 			
-				<h2 style="color: #003366; text-decoration: underline;">Echipele pentru proiect:</h2>
-				<br>
-				<a  href="https://docs.google.com/spreadsheets/d/1bdjM7agH89pbQ2fQrM8uGnIXSv_mgoG5OhRntwJ3iqs/edit?usp=sharing">Link inscriere echipe</a>
+<h2 style="color: #003366; text-decoration: underline;">Echipele pentru proiect:</h2>
+<br>
+<a  href="https://docs.google.com/spreadsheets/d/1bdjM7agH89pbQ2fQrM8uGnIXSv_mgoG5OhRntwJ3iqs/edit?usp=sharing">Link inscriere echipe</a>
 				
 
 				<h2>Laborator:</h2>
