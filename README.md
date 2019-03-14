@@ -6,7 +6,6 @@
 				<p>Proiect – 3p</p>
 				<p>Documentatie – 1p</p>
 
-				<br>
 				<h2>Cerinte proiect: </h2>
 				<br>
 				<p>(1p) Aplicație MVC - folosind Entity Framework (C#) / Hibernate (Java). 
@@ -17,7 +16,6 @@
 				</p>
 				<p>(0.5p) Dificultatea proiectului. Se acordă cele 0.5p în funcție de dificultatea proiectului realizat.</p>
 
-				<br>
 				<h2>Deadlines:</h2>
 				<br>
 				<p>Săptămâna 5-6 - idei + specificații.</p>
@@ -25,7 +23,6 @@
 				<p>Săptămâna 11-12 - 1 serviciu funcțional - deploy Cloud.</p>
 				<p>Săptămâna 13/14 - prezentare finală.</p>
 
-				<br>
 				<h2>Alte detalii despre proiect:</h2>
 				<br>
 				<p>Echipa de 5 persoane </p>
@@ -35,19 +32,15 @@
 				<p>Tool-uri de versionare a codului </p>
 				<p>La final documentatie </p>
 
-				<br>
+			
 				<h2 style="color: #003366; text-decoration: underline;">Echipele pentru proiect:</h2>
 				<br>
 				<a  href="https://docs.google.com/spreadsheets/d/1bdjM7agH89pbQ2fQrM8uGnIXSv_mgoG5OhRntwJ3iqs/edit?usp=sharing">Link inscriere echipe</a>
-				<br>
-				<br>
+				
 
 				<h2>Laborator:</h2>
-				<br>
+				
 				<a href="https://drive.google.com/file/d/1rNdDbqfToKVifmCQ0zmIstF5WbkBAhf9/view">Tutorial MVC 5 si Entity Framework 6</a>
-
-				<br>
-				<br>
 
 				<p>Eroare la conexiunea cu baza de date in proiectul de MVC
 				In Web config, trebuie modificat String-ul de conexiune: </p> 
