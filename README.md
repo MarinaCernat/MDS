@@ -1,3 +1,8 @@
+
+<!DOCTYPE html>
+<html>
+  
+<body>
 <h3 style="color:red">Grupele 351 & 352</h3>
 <p>Laborant: Cernat Marina</p>
 <p>Email: marina.cernat@my.fmi.unibuc.ro</p>
@@ -9,7 +14,6 @@
 <p>Activitate + prezenta - 1p</p>
 <p>Proiect – 3p</p>
 <p>Documentatie – 1p</p>
-
 
 <br>
 <h2>Cerinte proiect </h2>
@@ -53,4 +57,5 @@ connectionString="Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=ContosoUniv
 Daca Controllerul a fost creat cu Students, trebuie modificata si ruta: 
 @Html.ActionLink("Students", "Index", "Students")</p>
 
-
+</body>
+</html>
