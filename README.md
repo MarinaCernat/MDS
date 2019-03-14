@@ -1,31 +1,14 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @MarinaCernat Sign out
-1
-0 2,014 MarinaCernat/MDS
-forked from poole/lanyon
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-MDS/index.html
-@MarinaCernat MarinaCernat Update index.html
-6d43999  7 minutes ago
-@MarinaCernat @mdo @yutannihilation @paven @mrmrs
-187 lines (161 sloc)  4.94 KB
-    
 <!DOCTYPE html>
 <html>
 	<head>
 	
-		<title>MDS</title>
+		<title>Home</title>
 		
 		<meta charset="UTF-8">
 	
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		
+		<!--<link rel="stylesheet" type="text/css" href="CSS/Home.css">-->
 		
 		<style>
 		body
@@ -46,6 +29,7 @@ MDS/index.html
 					font-family: Arial, Helvetica, sans-serif;
 					text-decoration: underline;
 				  }
+
 		#wall 
 			 {  
 				border: 3px ;
@@ -63,11 +47,13 @@ MDS/index.html
 			  color: #003366;
 			  margin-left: 5%;
 		  }
+
 		.HomePage
 				 { 
 					padding:2px;
 					text-align:justify;
 				 }
+
 				 
 		.HomePage p 
 				   {
@@ -76,6 +62,7 @@ MDS/index.html
 						font-family: Arial, Helvetica, sans-serif;
 						font-size:120%;
 				   }	
+
 		.subliniat
 				  {
 					  text-decoration: underline;
@@ -123,22 +110,18 @@ MDS/index.html
 		<center>
 		   <div id="TitluMare">
 				<h1> Metode de dezvoltare software </h1>
-         <p class = "subliniat">
-						<b>Facultatea de Matematica si Informatica</b> 
-					   </br>							 
-					</p>
-          <p class = "subliniat">
-						<b>Universitatea din Bucuresti</b> 
-					   </br>							 
-					</p>
 		   </div>
 		</center>
 			
 		<div id ="wall">
-			<div class="HomePage">
-        <h2 style="color: #003366">Grupele 351 & 352</h2>
-        
-        <br>
+			<div class="HomePage">	
+				<center>
+					<p class = "subliniat">
+						<b>Grupele 351 & 352</b> 
+					   </br>							 
+					</p>
+				</center>			
+				<br>
 				<h2 style="color: #003366; text-decoration: underline;">Sistemul de notare:</h2>
 				<br>
 				<p>Curs – 60 % (60 puncte) – prezenta si examen scris</p>
@@ -199,15 +182,3 @@ MDS/index.html
 		</div>
 	</body>
 </html>
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
