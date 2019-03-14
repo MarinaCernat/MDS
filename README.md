@@ -1,4 +1,4 @@
-<h2 style="color: #003366; text-decoration: underline;">Sistemul de notare:</h2>
+<h2>Sistemul de notare:</h2>
 				<br>
 				<p>Curs – 60 % (60 puncte) – prezenta si examen scris</p>
 				<p>Laborator – 40% (40 puncte) dintre care:</p>
@@ -7,7 +7,7 @@
 				<p>Documentatie – 1p</p>
 
 				<br>
-				<h2 style="color: #003366; text-decoration: underline;">Cerinte proiect: </h2>
+				<h2>Cerinte proiect: </h2>
 				<br>
 				<p>(1p) Aplicație MVC - folosind Entity Framework (C#) / Hibernate (Java). 
 				Trebuie să prezentați tema proiectului, specificațiile acestuia și detaliile de implementare.
@@ -18,7 +18,7 @@
 				<p>(0.5p) Dificultatea proiectului. Se acordă cele 0.5p în funcție de dificultatea proiectului realizat.</p>
 
 				<br>
-				<h2 style="color: #003366; text-decoration: underline;">Deadlines:</h2>
+				<h2>Deadlines:</h2>
 				<br>
 				<p>Săptămâna 5-6 - idei + specificații.</p>
 				<p>Săptămâna 9-10 - MVC + prezentare.</p>
@@ -26,7 +26,7 @@
 				<p>Săptămâna 13/14 - prezentare finală.</p>
 
 				<br>
-				<h2 style="color: #003366; text-decoration: underline;">Alte detalii despre proiect:</h2>
+				<h2>Alte detalii despre proiect:</h2>
 				<br>
 				<p>Echipa de 5 persoane </p>
 				<p>Deployment din VS in Cloud </p>
@@ -42,7 +42,7 @@
 				<br>
 				<br>
 
-				<h2 style="color: #003366; text-decoration: underline;">Laborator:</h2>
+				<h2>Laborator:</h2>
 				<br>
 				<a href="https://drive.google.com/file/d/1rNdDbqfToKVifmCQ0zmIstF5WbkBAhf9/view">Tutorial MVC 5 si Entity Framework 6</a>
 
