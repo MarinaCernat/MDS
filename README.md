@@ -42,7 +42,7 @@ Aplicația MVC trebuie modificată pentru a consuma aceste servicii realizate.
 <h2>Echipele pentru proiect:</h2>
 <a  href="https://docs.google.com/spreadsheets/d/1bdjM7agH89pbQ2fQrM8uGnIXSv_mgoG5OhRntwJ3iqs/edit?usp=sharing">Link inscriere echipe</a>
 <br>				
-
+<br>
 <h2>Laborator:</h2>
 <a href="https://drive.google.com/file/d/1rNdDbqfToKVifmCQ0zmIstF5WbkBAhf9/view">Tutorial MVC 5 si Entity Framework 6</a>
 <br>
