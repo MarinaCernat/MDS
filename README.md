@@ -1,5 +1,10 @@
 <center><h1>Metode de dezvoltare software</h1></center>
 <br>
+<h3>Grupele 351 & 352</h3>
+<br>
+<p>Laborant: Cernat Marina</p>
+<p>Email: marina.cernat@my.fmy.unibuc.ro</p>
+<br>
 <h2>Sistemul de notare:</h2>
 <p>Curs – 60 % (60 puncte) – prezenta si examen scris</p>
 <p>Laborator – 40% (40 puncte) dintre care:</p>
@@ -41,9 +46,9 @@ Aplicația MVC trebuie modificată pentru a consuma aceste servicii realizate.
 <h2>Laborator:</h2>
 <a href="https://drive.google.com/file/d/1rNdDbqfToKVifmCQ0zmIstF5WbkBAhf9/view">Tutorial MVC 5 si Entity Framework 6</a>
 <br>
-
-<p>Eroare la conexiunea cu baza de date in proiectul de MVC:</p>
 <br>
+<p>Eroare la conexiunea cu baza de date in proiectul de MVC:</p>
+
 <p>In Web config, trebuie modificat String-ul de conexiune: </p> 
 <p style="font-size: 100%">connectionString="Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=ContosoUniversity1;Integrated Security=SSPI;"</p> 
 <p>Daca Controllerul a fost creat cu Students, trebuie modificata si ruta:</p> 
