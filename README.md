@@ -1,6 +1,6 @@
 <center><h1>Metode de dezvoltare software</h1></center>
 <br>
-<div style="margin-left:10%">
+
 <h3>Grupele 351 & 352</h3>
 <br>
 <p>Laborant: Cernat Marina</p>
@@ -54,5 +54,3 @@ Aplicația MVC trebuie modificată pentru a consuma aceste servicii realizate.
 <p style="font-size: 100%">connectionString="Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=ContosoUniversity1;Integrated Security=SSPI;"</p> 
 <p>Daca Controllerul a fost creat cu Students, trebuie modificata si ruta:</p> 
 <p>@Html.ActionLink("Students", "Index", "Students")</p>
-
-</div>
